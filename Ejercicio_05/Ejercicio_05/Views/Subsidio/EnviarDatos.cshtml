@@ -1,0 +1,31 @@
+﻿@model Ejercicio_05.Models.ClsSubsidio
+@{
+    ViewBag.Title = "EnviarDatos";
+}
+
+<h2>Subsidio</h2>
+@using (Html.BeginForm("CalcularSubsidio", "Subsidio", FormMethod.Post))
+{
+    <p>
+        @Html.LabelFor(model => model.cant_hijos, "Cantidad de Hijos")
+        @Html.DropDownListFor(model => model.cant_hijos, new List<SelectListItem>
+            {
+            new SelectListItem() {Text = "0 - 2", Value="0 - 2"},
+            new SelectListItem() {Text = "3 - 5", Value="3 - 5"},
+            new SelectListItem() {Text = "+ 6", Value="+ 6"}
+            }
+        )
+    </p>
+    <p>
+        @Html.LabelFor(model => model.hijos_escolaridad, "Hijos escolaridad")
+        @Html.EditorFor(model => model.hijos_escolaridad)
+    </p>    
+    <p>
+        @Html.CheckBoxFor(model => model.viuda, "--") Viuda?
+    </p>
+    <button type="submit" class="btn btn-primary">
+        <span class="glyphicon glyphicon-chevron-right">Calcular</span>
+    </button>
+
+}
+
