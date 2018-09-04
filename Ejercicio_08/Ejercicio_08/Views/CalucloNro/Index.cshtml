@@ -1,0 +1,53 @@
+﻿@model Ejercicio_08.Models.ClsNroCalculo
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Ingrese nros a la lista</h2>
+<div>
+    <h1><b>Ejercicio 08</b></h1>
+
+    @using (Html.BeginForm("Index", "CalucloNro", FormMethod.Post))
+    {
+        <p>
+            @Html.LabelFor(model => model.nro, "Ingrese Numero")
+            @Html.EditorFor(model => model.nro)
+            <input type="submit" value="Agregar Número" class="btn btn-success" />
+        </p>
+
+    }
+        <div class="form-inline">
+            <div class="form-group">
+                @Html.TextAreaFor(model => ViewData["Resultado"], new {
+                rows = "10",
+                cols = "30"
+                })
+            </div>
+            <div class="form-group text-right">
+                @using (Html.BeginForm("Calcular", "CalucloNro", FormMethod.Post))
+                {
+                    <br />
+                    <br />
+                    <label>Suma</label>
+                    <input type="text" value="@Model.suma" />
+                    <br />
+                    <br />
+                    <label>Promedio</label>
+                    <input type="text" value="@Model.promedio" />
+                    <br />
+                    <br />
+                    <label>Maximo</label>
+                    <input type="text" value="@Model.maxnro" />
+                    <br />
+                    <br />
+                    <label>Minimo</label>
+                    <input type="text" value="@Model.minnro" />
+                    <br /><br />
+                    <input type="submit" value="Calcular" class="btn btn-info" />
+                }
+            </div>
+        </div>
+        
+    
+</div>
+
