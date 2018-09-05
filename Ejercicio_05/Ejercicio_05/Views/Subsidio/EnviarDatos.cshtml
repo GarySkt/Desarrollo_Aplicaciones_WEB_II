@@ -6,6 +6,7 @@
 <h2>Subsidio</h2>
 @using (Html.BeginForm("CalcularSubsidio", "Subsidio", FormMethod.Post))
 {
+<div class="list-group">
     <p>
         @Html.LabelFor(model => model.cant_hijos, "Cantidad de Hijos")
         @Html.DropDownListFor(model => model.cant_hijos, new List<SelectListItem>
@@ -16,6 +17,9 @@
             }
         )
     </p>
+
+</div>
+    
     <p>
         @Html.LabelFor(model => model.hijos_escolaridad, "Hijos escolaridad")
         @Html.EditorFor(model => model.hijos_escolaridad)

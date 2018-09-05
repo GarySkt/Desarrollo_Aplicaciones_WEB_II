@@ -1,0 +1,24 @@
+﻿@model EjercicioPropuestos_MVC_CALLE.Models.ClsBrujula
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Brujula</h2>
+
+@using (Html.BeginForm("Localizar", "Localizar", FormMethod.Post))
+{
+    <p>
+        @Html.LabelFor(model => model.x, "X : ")
+        @Html.EditorFor(model => model.x)
+    </p>
+    <p>
+        @Html.LabelFor(model => model.y, "Y : ")
+        @Html.EditorFor(model => model.y)
+    </p>
+
+    <input type="submit" value="Calcular" />
+    <h2>Ubicacion : @Model.resultado</h2>
+}
+
+
+
