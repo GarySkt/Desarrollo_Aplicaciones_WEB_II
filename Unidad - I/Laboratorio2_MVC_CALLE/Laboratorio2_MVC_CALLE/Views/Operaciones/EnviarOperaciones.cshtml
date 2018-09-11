@@ -1,0 +1,47 @@
+﻿@model Laboratorio2_MVC_CALLE.Models.ClsOperaciones
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>EnviarOperaciones</title>
+</head>
+<body>
+
+
+    <h1>Enviar operaciones</h1>
+    <div>
+        <br />
+        @using (Html.BeginForm("CalcularOperaciones", "Operaciones", FormMethod.Post))
+        {
+            <p>
+                @Html.LabelFor(model => model.a, "Ingrese A: ")
+                @Html.EditorFor(model => model.a)
+            </p>
+            <p>
+                @Html.LabelFor(model => model.b, "Ingrese B: ")
+                @Html.EditorFor(model => model.b)
+            </p>
+            <p>
+                @Html.LabelFor(model => model.tipo, "Tipo")
+                @Html.DropDownListFor(model => model.tipo, new List<SelectListItem>
+                   {
+                       new SelectListItem() {Text = "Suma", Value="S"},
+                       new SelectListItem() {Text = "Resta", Value="R"},
+                       new SelectListItem() {Text = "Multiplicacion", Value="M"},
+                       new SelectListItem() {Text = "Division", Value="D"}
+                   }
+               )
+            </p>
+
+            <input type="submit" value="Calcular" />
+        }
+    </div>
+
+
+</body>
+</html>

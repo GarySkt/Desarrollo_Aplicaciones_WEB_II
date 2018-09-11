@@ -1,0 +1,108 @@
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csc.exe
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csc.exe.config
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csc.rsp
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csi.exe
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csi.rsp
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.AppContext.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\vbc.exe
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\vbc.exe.config
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\vbc.rsp
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\VBCSCompiler.exe
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Laboratorio3_MVC_CALLE.dll.config
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Laboratorio3_MVC_CALLE.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Laboratorio3_MVC_CALLE.pdb
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Helpers.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Mvc.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Razor.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Deployment.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Razor.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Razor.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Deployment.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Razor.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Helpers.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Mvc.xml
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Razor.resources.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Webpages.resources.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Helpers.resources.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Mvc.resources.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.csprojResolveAssemblyReference.cache
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.dll
+C:\Users\AEPIS01\Desktop\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.pdb
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csc.exe
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csc.exe.config
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csc.rsp
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csi.exe
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\csi.rsp
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.AppContext.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\vbc.exe
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\vbc.exe.config
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\vbc.rsp
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Laboratorio3_MVC_CALLE.dll.config
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Laboratorio3_MVC_CALLE.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Laboratorio3_MVC_CALLE.pdb
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Helpers.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Mvc.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Razor.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Razor.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Razor.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Webpages.Razor.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Helpers.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\System.Web.Mvc.xml
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Razor.resources.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Webpages.resources.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.csprojAssemblyReference.cache
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.csproj.CoreCompileInputs.cache
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.csproj.CopyComplete
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.dll
+C:\Users\Gary\Desktop\WEB II\Laboratorio3_MVC_CALLE\Laboratorio3_MVC_CALLE\obj\Debug\Laboratorio3_MVC_CALLE.pdb

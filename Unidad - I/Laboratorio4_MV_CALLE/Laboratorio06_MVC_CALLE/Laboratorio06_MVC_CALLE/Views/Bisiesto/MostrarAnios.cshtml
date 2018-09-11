@@ -1,0 +1,43 @@
+﻿@model Laboratorio06_MVC_CALLE.Models.ClsBisiesto
+@{
+    ViewBag.Title = "MostrarAnios";
+}
+
+<h2>MostrarAnios</h2>
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-2">
+            <div class="col-lg-8">
+                @using (Html.BeginForm("CalcularAnios", "Bisiesto", FormMethod.Post))
+            {
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Inicial, "Año Inicial")
+                        @Html.TextBoxFor(model => model.Inicial, new { @class = "form-comtrol" })
+
+                    </div>
+                    <div class="form-group">
+                        @Html.LabelFor(model => model.Final, "Año Final")
+                        @Html.TextBoxFor(model => model.Final, new { @class = "form-comtrol" })
+                    </div>
+                    <div class="radio-inline">
+                        @Html.RadioButton("Anio", "Mostrar Bisiestos", true) Años Bisiestos
+                    </div>
+                    <div class="radio-inline">
+                        @Html.RadioButton("Anio", "Mostrar No Bisiestos", true) Años Bisiestos
+                    </div>
+                    <div class="radio-inline">
+                        @Html.RadioButton("Anio", "Mostrar Todos", true) Años Todos
+                    </div>
+                    <br />
+                    <br />
+                    <input type="submit" class="btn btn-primary" value="Calcular" />
+                }
+
+            </div>
+            <div class="col-lg-2"></div>
+
+        </div>
+    </div>
+
+</div>

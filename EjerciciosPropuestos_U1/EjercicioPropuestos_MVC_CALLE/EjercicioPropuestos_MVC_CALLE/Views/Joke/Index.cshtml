@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@*<BODY onmousemove="CambiaPosicion()">
+
+    <script type="text/javascript">
+        var MovRaton = 0;
+        {
+            function CambiaPosicion() {
+                MovRaton = (MovRaton + 1) % 10;
+                if (MovRaton == 0) {
+
+                    Boton.style.top = window.event.y - Math.random() * 30 - Boton.clientHeight - 10;
+                    Boton.style.left = window.event.x - Math.random() * 30 - Boton.clientWidth - 10;
+
+                }
+            }
+        }
+    </script>
+    <INPUT TYPE=BUTTON ID="Boton" STYLE="position:absolute" VALUE="Desaprobar" onclick="alert('Aprobado')">
+</BODY>*@
+
+<script>
+    window.onload = function () {
+        var elemento = document.getElementById("boton");
+        elemento.onmouseover = function (e) {
+            elemento.style.top = window.event.y - Math.floor((Math.random() * (((80 - 1) + 1)) + 1) * 5);
+            elemento.style.left = window.event.x - Math.floor((Math.random() * (((80 - 1) + 1)) + 1) * 5);
+        }
+    }
+</script>
+<div style="position: absolute; top: 0; bottom: 0 ; left: 0; right:0; margin: auto; width: 600px; height: 300px;">
+    <input  style="position: absolute;" type="button" id="boton" value="Boton" />
+
+</div>
+

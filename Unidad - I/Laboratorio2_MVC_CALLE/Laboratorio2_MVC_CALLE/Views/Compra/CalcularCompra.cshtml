@@ -1,0 +1,44 @@
+﻿
+@model Laboratorio2_MVC_CALLE.Models.ClsCompra
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CalcularCompra</title>
+</head>
+<body>
+
+
+    <center>
+        <h1> Compra Aleatoria </h1>
+        <div>
+            @if (Model.random < 200)
+            {
+                Model.total = Model.monto - (Model.monto * 0.20);
+                Model.descuento = (Model.monto * 0.20);
+            }
+            else if (Model.random >= 200)
+            {
+                Model.total = Model.monto - (Model.monto * 0.40);
+                Model.descuento = (Model.monto * 0.40);
+            }
+            <br />
+            <div>
+                <label>Valor Aleatorio: </label> @Model.random <br /><br />
+                <label>Monto de la compra: </label> @Model.monto <br /><br />
+                <label>Descuento: </label> @Model.descuento <br /><br />
+                <label><b>Total a Pagar: </b></label> @Model.total <br /><br />
+            </div>
+        </div>
+    </center>
+
+
+</body>
+</html>
+
+

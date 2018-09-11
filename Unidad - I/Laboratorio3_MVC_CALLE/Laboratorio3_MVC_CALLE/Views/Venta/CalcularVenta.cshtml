@@ -1,0 +1,67 @@
+﻿@model Laboratorio3_MVC_CALLE.Models.ClsVenta
+@{
+    
+    ViewBag.Title = "Venta de Productos";
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CalcularVenta</title>    
+</head>
+<body>
+    <div> 
+        <h1> <b>Venta de Productos</b> </h1>
+        <br /><br />
+        
+        @using (Html.BeginForm("CalcularVenta", "Venta", FormMethod.Post))
+        {
+            <div>
+                <p>
+                    @Html.LabelFor(model => model.nombre, "Nombre:")
+                    @Html.EditorFor(model => model.nombre)
+                </p>
+                
+                <p>
+                    @Html.LabelFor(model => model.direccion, "Direccion:")
+                    @Html.EditorFor(model => model.direccion)
+                </p>
+                             
+                <p>
+                    @Html.CheckBoxFor(model => model.productoUSB,"--") USB 128GB KINGSTON
+                </p>
+                
+                <p>
+                    @Html.CheckBoxFor(model => model.productoMOUSE, "--") MOUSE GAMER 
+                </p>
+                
+                <p>
+                    @Html.CheckBoxFor(model => model.productoTECLADO, "--") TECLADO RAZOR
+                </p>
+                
+                <p>
+                    @Html.CheckBoxFor(model => model.productoDISCODURO, "--") DISCO DURO 2TB Western Digital
+                </p>
+                <br />
+            </div>
+
+            <div>
+                <p>Nombre: @Model.nombre</p>
+                <p>Direccion: @Model.direccion</p>
+                <p> <label>sub total: S/. @Model.subtotal </label> </p>
+                <br />
+                <p> <label>IGV: S/. @Model.igv </label> </p>
+                <br />
+                <p> <label>total: S/. @Model.total </label> </p>
+                <br />
+                <button>Calcular </button>
+                <br />
+
+
+            </div>
+        }
+</div>
+</body>
+</html>
