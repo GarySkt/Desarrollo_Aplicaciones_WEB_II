@@ -1,0 +1,12 @@
+﻿@model Trabajo_Unidad_I.Models.ClsCore
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+@using (Html.BeginForm("Index", "Core", FormMethod.Post))
+{
+    <input type="submit" value="Calcular" />
+    <h2>Parallel execution time: @Model.parallel_execution_time</h2>
+    <h2>Singe execution: @Model.Singe_execution_time</h2>
+}
